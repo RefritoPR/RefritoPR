@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @RefritoPR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-RefritoPR/RefritoPR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm RefritoPR!
+About Me
+🔍 Pronouns: He/Him
+🌟 Fun Fact: I was once a regular human, and then I got hacked.
+Interests
+🤖 Artificial Intelligence
+🛡️ Cybersecurity & Penetration Testing
+📱 App Development
+⚖️ Fair Use and Civil Rights
+🌌 Space Exploration
+Currently Learning
+🧑‍💻 Cybersecurity
+🛠️ Penetration Testing
+Looking to Collaborate
+🌈 Development of LGBTQ Rights
+🧠 The future of AI and Civil Rights
+🚀 Space Exploration Projects
+How to Reach Me
+📧 Email: Refritopr@gmail.com
